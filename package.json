@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/stasys-hub/ayu-adwaita/issues",
     "email": "stsys@uni-mainz.de"
-  }
+  },
+  "license": "MIT"
 }
