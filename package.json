@@ -22,5 +22,10 @@
     "url": "https://github.com/stasys-hub/ayu-adwaita/issues",
     "email": "stsys@uni-mainz.de"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": ["Adwaita","Gnome","Ayu","GTK","Linux"],
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/stasys-hub/ayu-adwaita.git"
+  }
 }
