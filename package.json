@@ -1,7 +1,7 @@
 {
   "name": "ayu-adwaita",
   "displayName": "ayu-adwaita",
-  "description": "Iconic Variant of the Ayu-Theme customized to fit the Adwaita (Gnome) THeme",
+  "description": "Iconic Variant of the Ayu-Theme customized to fit the Adwaita (Gnome) Theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
@@ -17,5 +17,9 @@
         "path": "./themes/ayu-adwaita-color-theme.json"
       }
     ]
+  },
+  "bugs": {
+    "url": "https://github.com/stasys-hub/ayu-adwaita/issues",
+    "email": "stsys@uni-mainz.de"
   }
 }
