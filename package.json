@@ -1,0 +1,21 @@
+{
+  "name": "ayu-adwaita",
+  "displayName": "ayu-adwaita",
+  "description": "Iconic Variant of the Ayu-Theme customized to fit the Adwaita (Gnome) THeme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ayu-adwaita",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ayu-adwaita-color-theme.json"
+      }
+    ]
+  }
+}
